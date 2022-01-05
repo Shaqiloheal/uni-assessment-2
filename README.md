@@ -1,4 +1,4 @@
-# CS1032 Assessment 
+# CS1032 Assessment 2
 ## Task 1
 Program that asks a user to input a sentence, removes all the spaces between words in the sentence and assign to a new variable, prints the value of the new variable, reverses the letters in the new variable and prints the result.
 ## Task 2
