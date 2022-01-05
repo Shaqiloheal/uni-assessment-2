@@ -1,0 +1,3 @@
+Information about exercise2.txt:
+The number of characters is: 136 characters.
+The number of words is: 24 words.
